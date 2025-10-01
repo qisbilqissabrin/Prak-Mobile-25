@@ -31,5 +31,8 @@ Kalimanah, Kabupaten Purbalingga, Jawa Tengah 53371
     <string name="desc_lulusan">Lulusan Program Studi Informatika Unsoed sebagian besar bekerja sebagai tenaga ahli di bidang perekayasaan perangkat lunak (Programer, Analis Sistem, Manajer
 Proyek, Database Administrator), Wirausahawan Informatika dan Dosen/Peneliti.
 </string>
+    <string name="Buku">Koleksi Buku</string>
     <string name="back">Kembali</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

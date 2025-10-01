@@ -8,10 +8,12 @@ data class SearchResponse(
 )
 
 data class BookDoc(
-    @SerializedName(value = "title")
+    @SerializedName("title")
     val title: String?,
-    @SerializedName(value = "author_name")
+    @SerializedName("author_name")
     val authorName: List<String>?,
-    @SerializedName(value = "first_publish_year")
-    val firstPublishYear: Int?
+    @SerializedName("first_publish_year")
+    val firstPublishYear: Int?,
+    @SerializedName ("cover")
+    val coverID: Int?
 )
